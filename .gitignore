@@ -1,0 +1,19 @@
+# Ignore all environment variable files
+**/.env
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environments
+venv/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore folders
+OpenAI/
+Basic_API_Uses/
