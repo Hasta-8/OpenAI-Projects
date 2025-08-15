@@ -15,5 +15,5 @@ venv/
 Thumbs.db
 
 # Ignore folders
-OpenAI/
+Source_Library/
 Basic_API_Uses/
