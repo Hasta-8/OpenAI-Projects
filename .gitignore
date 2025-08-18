@@ -15,5 +15,5 @@ venv/
 Thumbs.db
 
 # Ignore folders
-Source_Library/
+Source_library/
 Basic_API_Uses/
